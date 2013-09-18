@@ -3,7 +3,8 @@ layout: post
 title: "Inventamos soluções para problemas que ainda não temos"
 date: 2013-09-16 20:19
 comments: true
-categories: 
+categories: entrepreneur, entrepreneurship, SaaS, Opinion
+published: true
 ---
 
 Incrível como quanto mais eu começo a fuçar nesse mundo de _entrepreneurship_ eu vejo que estou ficando velho.
@@ -13,9 +14,7 @@ Parece que parei de acreditar em muitas coisas.
 
 Porque digo isso? Bom, porque vejo direto startups pipocando aqui e acolá. (haha velho mesmo, olha o termo... acolá...)
 
-E parece que (na esfera de desenvolvedores/programadores) a bola da vez agora é __AaaS__ ou seja, _Anything as a Service_
-
-Parece que nos últimos meses vi vários _Backend's as a Service (BaaS)_ e mais especificamente os _mBaaS_ (Coloque um _mobile_ ali na frente).
+E parece que (na esfera de desenvolvedores/programadores) a bola da vez agora é __AaaS__ ou seja, _Anything as a Service_. Parece que nos últimos meses vi vários _Backend's as a Service (BaaS)_ e mais especificamente os _mBaaS_ (Coloque um _mobile_ ali na frente).
 
 Caramba, mas será que realmente a gente precisa **mesmo** de uns mBaaS? 
 Vou inventar um DaaS _Developer as a Service_ parece que pra fazer uma coisa que a gente já sabe, a gente tem que aprender mais ainda? Tipo é meio que dar um passo pra frente e dois pra trás... pelo menos é o que sinto.
