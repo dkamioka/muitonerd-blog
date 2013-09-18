@@ -3,7 +3,7 @@ layout: post
 title: "Design: Content is King"
 date: 2013-09-18 00:36
 comments: true
-categories: design, codeschool, MuitoNerd
+categories: [design, codeschool, MuitoNerd]
 author: Diogo K
 published: false
 ---

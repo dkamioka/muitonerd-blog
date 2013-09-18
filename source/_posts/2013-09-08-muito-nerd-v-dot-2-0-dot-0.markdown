@@ -3,7 +3,7 @@ layout: post
 title: "Muito Nerd v.2.0.0"
 date: 2013-09-08 19:03
 comments: true
-categories: MuitoNerd, Geral
+categories:[MuitoNerd, Geral]
 ---
 
 Após muito tempo, mais precisamente 1 ano do último post, segue mais uma tentativa de reviver esse blog.

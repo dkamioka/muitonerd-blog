@@ -3,7 +3,7 @@ layout: post
 title: "Inventamos soluções para problemas que ainda não temos"
 date: 2013-09-16 20:19
 comments: true
-categories: entrepreneur, entrepreneurship, SaaS, Opinion
+categories: [entrepreneur, entrepreneurship, SaaS, Opinion]
 published: true
 ---
 

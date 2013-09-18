@@ -3,7 +3,7 @@ layout: post
 title: "Gestures no iOS com Konami code"
 date: 2013-09-17 20:47
 comments: true
-categories: iOS, iPhone, Gestures, Konami, Code
+categories: [iOS, iPhone, Gestures, Konami, Code]
 published: false
 ---
 
