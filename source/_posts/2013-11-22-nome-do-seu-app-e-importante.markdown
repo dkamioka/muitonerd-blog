@@ -8,7 +8,7 @@ categories: [android, mobile, ios, iphone, naming, nome, app, blooper, bloopers,
 
 Pode parecer estranho para desenvolvedores freelancers, pequenas empresas, startups em geral essa pergunta. É lógico que o nome do seu app é importante. Mas o assunto é diferente quando estamos falando de grandes empresas cheio de processos, departamentos e burocracias. 
 
-Lembrando que eu não sou contra processos, aliás gosto muito deles quando fazem sentido, são bem pensados e bem treinados/implantados na cultura da empresa.
+Em tempo: eu não sou contra processos, aliás gosto muito deles quando fazem sentido, são bem pensados e bem treinados/implantados na cultura da empresa.
 
 Enfim, recentemente em um cliente estávamos já na segunda metade do projeto e o nome do App não havia sido escolhido ainda. Quando se tem uma empresa onde quem decide esse tipo de coisa responde à uma área de Marketing, com gerentes, diretores e até interesses não alinhados aos da TI, pode ocorrer até uma falta de entendimento da prioridade disso. 
 
